@@ -1,0 +1,10 @@
+0.1
+
+Added Ultimate/Mystic
+Added Beast
+
+0.2
+
+Changed unlock conditions for mystic
+Beast now can be obtained without item
+Changed Beast aura

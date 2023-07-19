@@ -1,0 +1,5 @@
+displayName = Gohan Forms
+author = GoldFix1
+version = 0.2
+modReferences = DBZGoatLib, DBZMODPORT
+sortAfter = DBZGoatLib, DBZMODPORT, DBTBalance

@@ -1,0 +1,5 @@
+C:\Users\Хозяин\Documents\My Games\Terraria\tModLoader\ModSources\GohanForms\obj\Debug\net6.0\GohanForms.csproj.AssemblyReference.cache
+C:\Users\Хозяин\Documents\My Games\Terraria\tModLoader\ModSources\GohanForms\obj\Debug\net6.0\GohanForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Хозяин\Documents\My Games\Terraria\tModLoader\ModSources\GohanForms\obj\Debug\net6.0\GohanForms.AssemblyInfoInputs.cache
+C:\Users\Хозяин\Documents\My Games\Terraria\tModLoader\ModSources\GohanForms\obj\Debug\net6.0\GohanForms.AssemblyInfo.cs
+C:\Users\Хозяин\Documents\My Games\Terraria\tModLoader\ModSources\GohanForms\obj\Debug\net6.0\GohanForms.csproj.CoreCompileInputs.cache
